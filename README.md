@@ -23,41 +23,43 @@ Things you may want to cover:
 
 * ...
 
-###### Projects Tasks ######
-# Install application in local development:
+## Projects Tasks ##
+### Install application in local development:
   Ruby: 2.5.0
   Rails: 5.1.5
 
-# Bundle 
+### Bundle 
   bundle install
 
-# Populate Database
+### Populate Database
   bundle exec rake db_tasks:rebuild
   
-# About
-  This is working application that can add game categories and game titles
+### About
+  This is a working application that can add game categories and game titles
 
-# Tasks
+### Tasks
   General Description: create an open-ended api functionality for an external application to connect to this application
 
-# 1) Get the following curls working:
-  curl -G -d "" "http://gamelibrary.com:3000/v1/categories"
+### 1) Get the following curls working:
+  curl -G -d "" "http://gamelibrary.com:3000/v1/categories"<br />
   curl -G -d "" "http://gamelibrary.com:3000/v1/games"
 
-# 2) Create an external app called "mygames"
-  - Allow this app to retrieve a list of games and categories
+### 2) Create an external app called "mygames"
+  - Allow this app to retrieve a list of games and categories<br />
   - On the home page of mygames (http://mygames.com:3001), have it show a list of all category names. These will all be links that direct to their list of games.
 
-# 3) Show the ability to add and delete categories and games with forms on the home page
+### 3) Getting, Updating, Deleting on "mygames"
+  - provide the ability to add/delete categories<br />
+  - provide the ability to add/update/delete games
 
-# 4) On home page, create a search field that displays all found games with the given search tag 
-  ex: search_tag "bat" will find "Batman: Arkham City"
-  ex: search_tag "dead" or "Dead" will find "The Walking Dead"
+### 4) On home page, create a search field that displays all found games with the given search tag 
+  ex: search_tag "bat" will find "Batman: Arkham City"<br />
+  ex: search_tag "dead" or "Dead" will find "The Walking Dead"<br />
   - create an option to select category while searching (will have default option "All Categories")
 
-# 5) File downloads
+### 5) File downloads
   On any list of games from a category link click, provide a button to place all games and their information into a txt or csv file and wrap that up into a zip file.  Clicking on the download button will allow a zip file to be downloaded into the ~/Downloads folder.
 
-# Show the various types of techniques you would use to accomplish this.
+### Show the various types of techniques and organization you would use to accomplish this.
 
 
