@@ -12,7 +12,7 @@ Thank you for taking the time to participate in this assessment! Below you'll fi
 * How you can ensure integrity of functionality
 * Use of modern coding procedures
 
-## Projects Tasks ##
+## Project Tasks ##
 ### Install application in local environment:
   Ruby: 2.5.1
   Rails: 5.1.5
