@@ -47,7 +47,7 @@ Thank you for taking the time to participate in this assessment! Below you'll fi
   - Create an option to select category while searching (will have default option "All Categories")
 
 ### 5) File downloads
-  On any list of games from a category link click, provide a button to place all games and their information into a txt or csv file and wrap that up into a zip file.  Clicking on the download button will allow a zip file to be downloaded into the ~/Downloads folder.
+  Next to each category on the categories index view page, create a button link click that will place all games for that category and their information into a txt or csv file and wrap that up into a zip file.  Clicking on the download button will allow a zip file to be downloaded into the ~/Downloads folder.
 
 ### Complete all 5 steps above having each feature operational
 
