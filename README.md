@@ -17,12 +17,12 @@ Thank you for taking the time to participate in this assessment! Below you'll fi
   Ruby: 2.5.1
   Rails: 5.1.5
 
-### Bundle 
+### Bundle
   bundle install
 
 ### Populate Database
   bundle exec rake db_tasks:rebuild
-  
+
 ### About
   This is a working application that can add game categories and game titles
 
@@ -41,7 +41,7 @@ Thank you for taking the time to participate in this assessment! Below you'll fi
   - provide the ability to add/delete categories
   - provide the ability to add/update/delete games
 
-### 4) On home page, create a search field that displays all found games with the given search tag 
+### 4) On home page, create a search field that displays all found games with the given search tag
   ex: search_tag "bat" will find "Batman: Arkham City"
   ex: search_tag "dead" or "Dead" will find "The Walking Dead"
   - Create an option to select category while searching (will have default option "All Categories")
@@ -49,7 +49,9 @@ Thank you for taking the time to participate in this assessment! Below you'll fi
 ### 5) File downloads
   On any list of games from a category link click, provide a button to place all games and their information into a txt or csv file and wrap that up into a zip file.  Clicking on the download button will allow a zip file to be downloaded into the ~/Downloads folder.
 
-**NOTE: Show the various types of techniques and organization you would use to accomplish this.**
+### Complete all 5 steps above having each feature operational
+
+**NOTE: For all 5 steps above, exhibit the various types of techniques and practices you would use to accomplish this.**
 
 ### Completion and Delivery
 You can clone or fork this repo. When complete, email a link to submissions@leaselabs.com
