@@ -15,7 +15,7 @@ Thank you for taking the time to participate in this assessment! Below you'll fi
 ## Project Tasks ##
 ### Install application in local environment:
   Ruby: 2.5.1
-  Rails: 5.1.5
+  Rails: 5.2.0
 
 ### Bundle
   bundle install
