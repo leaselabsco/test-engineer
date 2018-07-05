@@ -3,7 +3,7 @@ Thank you for taking the time to participate in this assessment! Below you'll fi
 
 ### What We're Interested In
 
-* Chosen techniques used to make calls
+* Chosen techniques/deisgn used to make calls (note: specifically, the HTTP/REST gem can be as simple as HTTParty)
 * Class organization
 * Organization/Storage of constants/variables
 * Proper error handling
