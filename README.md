@@ -13,7 +13,7 @@ Thank you for taking the time to participate in this assessment! Below you'll fi
 * Creativity
 
 ### Side Notes
-  - You do not necessarily need any additional external tools other than your rest API gem
+  - You do not necessarily need any additional external tools other than your rest API gem and testing gem(s)
   - You can write everything you need to, using Ruby.
   - You are not subject to only what is asked. Add anything you need to make the solution more complete.
 
