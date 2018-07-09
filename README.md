@@ -59,10 +59,10 @@ Thank you for taking the time to participate in this assessment! Below you'll fi
 **NOTE:** For all 5 steps above, exhibit the various types of techniques, setup practices.. etc you would use to accomplish the goals. The completion of this goal can be achieved in many ways. Put foward your best effort. This assessment is meant to get an idea of how a backend engineer would choose to build this based on their experience. Some notes below:
 
   - Update the base app if needed. Make your external app well-rounded.
-  - Think of things like "What if 50 different external apps would connect to the base app?" or "What if my external app connects to 50 base apps?"
+  - Think of things like "What if 50 different external apps would connect to the base app?" or "What if my external app connects to 50 different base apps?"
 
 ### Completion and Delivery
-You can clone or fork this repo. All files and code to submit can exists within the 2 applications.  When complete, email a link to submissions@leaselabs.com. Please submit the following:
+You can clone or fork this repo. All files and code to submit can exist within the 2 applications.  When complete, email a link to submissions@leaselabs.com. Please submit the following:
 
  - your updated gamelibrary app
  - your new mygames app
