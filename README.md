@@ -13,7 +13,7 @@ Thank you for taking the time to participate in this assessment! Below you'll fi
 * Creativity
 
 ### Side Notes
-  - You do not necessarily need any additional external tools other than the chosen the http/rest API client library gem
+  - You do not necessarily need any additional external tools other than your rest API gem
   - You can write everything you need to, using Ruby.
   - You are not subject to only what is asked. Add anything you need to make the solution more complete.
 
@@ -56,10 +56,10 @@ Thank you for taking the time to participate in this assessment! Below you'll fi
 
 ### Complete all 5 steps above having each feature operational
 
-**NOTE:** For all 5 steps above, exhibit the various types of techniques and practices you would use to accomplish each step. The completion of this goal can be accomplished many ways. Put foward your best effort. This assessment is meant to get an idea of how a backend engineer would choose to build this based on their experience. Some notes below:
+**NOTE:** For all 5 steps above, exhibit the various types of techniques, setup practices.. etc you would use to accomplish the goals. The completion of this goal can be achieved in many ways. Put foward your best effort. This assessment is meant to get an idea of how a backend engineer would choose to build this based on their experience. Some notes below:
 
   - Update the base app if needed. Make your external app well-rounded.
-  - Think about things like "What if 50 different external apps would connect to the base app?"
+  - Think of things like "What if 50 different external apps would connect to the base app?" or "What if my external app connects to 50 base apps?"
 
 ### Completion and Delivery
 You can clone or fork this repo. All files code and submit can exists within the 2 applications.  When complete, email a link to submissions@leaselabs.com. Please submit the following:
