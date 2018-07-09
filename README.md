@@ -4,13 +4,13 @@ Thank you for taking the time to participate in this assessment! Below you'll fi
 ### What We're Interested In
 
 * Chosen techniques/methods/deisgn used to make calls (For the HTTP/REST API client library, can use HTTParty)
-* Class organization
-* Organization/Storage of constants/variables
+* Integrity of functionality
+* Organization (classes, constants, variables)
 * Proper error handling
 * Structure that's scalable
 * Code cleanliness
-* Integrity of functionality
 * Use of best practices
+* Creativity
 
 ## Project Tasks ##
 ### Install application in local environment:
@@ -51,9 +51,18 @@ Thank you for taking the time to participate in this assessment! Below you'll fi
 
 ### Complete all 5 steps above having each feature operational
 
-**NOTE: For all 5 steps above, exhibit the various types of techniques and practices you would use to accomplish each step.**
+**NOTE:** For all 5 steps above, exhibit the various types of techniques and practices you would use to accomplish each step. The completion of this goal can be accomplished many ways. Put foward your best effort. This assessment is meant to get an idea of how a backend engineer would choose to build this based on their experience.
+
+  - You do not necessarily need any additional external tools other than the chosen the http/rest API client library gem
+  - You can write everything you need to, using Ruby.
+  - You are not subject to only what is asked. Add anything you need to make the solution more complete.
+  - Update the base app if needed. Make your external app well-rounded.
+  - Think about things like "What if 50 different external apps would connect to the base app?"
 
 ### Completion and Delivery
-You can clone or fork this repo. When complete, email a link to submissions@leaselabs.com
+You can clone or fork this repo. All files code and submit can exists within the 2 applications.  When complete, email a link to submissions@leaselabs.com. Please submit the following:
 
-**MIT License - Open Source** We have created this test as a simple assessment for backend-end developers. If anyone else finds this useful, it's available for you to use anyway you like.
+ - your updated gamelibrary app
+ - your new mygames app
+
+**MIT License - Open Source** We have created this test as an assessment for backend-end developers. If anyone else finds this useful, it's available for you to use anyway you like.
