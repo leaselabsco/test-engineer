@@ -5,12 +5,17 @@ Thank you for taking the time to participate in this assessment! Below you'll fi
 
 * Chosen techniques/methods/deisgn used to make calls (For the HTTP/REST API client library, can use HTTParty)
 * Integrity of functionality
-* Organization (classes, constants, variables)
+* Organization
 * Proper error handling
 * Structure that's scalable
 * Code cleanliness
 * Use of best practices
 * Creativity
+
+### Side Notes
+  - You do not necessarily need any additional external tools other than the chosen the http/rest API client library gem
+  - You can write everything you need to, using Ruby.
+  - You are not subject to only what is asked. Add anything you need to make the solution more complete.
 
 ## Project Tasks ##
 ### Install application in local environment:
@@ -23,8 +28,8 @@ Thank you for taking the time to participate in this assessment! Below you'll fi
 ### Populate Database
   bundle exec rake db_tasks:rebuild
 
-### About
-  This application alone, is a simple working application that can edit and maintain a game inventory
+### What you currently have
+  This is an application that was created by 2 scaffolds for categories and games. Through scaffolding and seeds, this application alone, is a simple working application that can edit and maintain a game inventory.
 
 ### Tasks
   General Description: create open-ended api functionality for an external application to connect to this application
@@ -34,7 +39,7 @@ Thank you for taking the time to participate in this assessment! Below you'll fi
   - curl -G -d "" "http://gamelibrary.com:3000/v1/games"
 
 ### 2) Create an external app called "mygames"
-  - Allow this app to retrieve a list of games and categories
+  - Allow this external app to retrieve a list of games and categories from the base app
   - On the home page of mygames (http://mygames.com:3001), have it show a list of all category names. These will all be links that direct to their list of games.
 
 ### 3) Getting, Updating, Deleting on "mygames"
@@ -51,11 +56,8 @@ Thank you for taking the time to participate in this assessment! Below you'll fi
 
 ### Complete all 5 steps above having each feature operational
 
-**NOTE:** For all 5 steps above, exhibit the various types of techniques and practices you would use to accomplish each step. The completion of this goal can be accomplished many ways. Put foward your best effort. This assessment is meant to get an idea of how a backend engineer would choose to build this based on their experience.
+**NOTE:** For all 5 steps above, exhibit the various types of techniques and practices you would use to accomplish each step. The completion of this goal can be accomplished many ways. Put foward your best effort. This assessment is meant to get an idea of how a backend engineer would choose to build this based on their experience. Some notes below:
 
-  - You do not necessarily need any additional external tools other than the chosen the http/rest API client library gem
-  - You can write everything you need to, using Ruby.
-  - You are not subject to only what is asked. Add anything you need to make the solution more complete.
   - Update the base app if needed. Make your external app well-rounded.
   - Think about things like "What if 50 different external apps would connect to the base app?"
 
