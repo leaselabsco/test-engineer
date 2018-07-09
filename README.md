@@ -62,9 +62,9 @@ Thank you for taking the time to participate in this assessment! Below you'll fi
   - Think of things like "What if 50 different external apps would connect to the base app?" or "What if my external app connects to 50 different base apps?"
 
 ### Completion and Delivery
-You can clone or fork this repo. All files and code to submit can exist within the 2 applications.  When complete, email a link to submissions@leaselabs.com. Please submit the following:
+The above tasks requests you to clone this repo as it contains a skeleton for you to get started. All files and code to submit can exist within the 2 applications.  When complete, email a link to submissions@leaselabs.com. Please submit the following:
 
- - your updated gamelibrary app
- - your new mygames app
+ - Your updated gamelibrary app
+ - Your new mygames app
 
 **MIT License - Open Source** We have created this test as an assessment for backend-end developers. If anyone else finds this useful, it's available for you to use anyway you like.
