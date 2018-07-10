@@ -3,7 +3,7 @@ Thank you for taking the time to participate in this assessment! Below you'll fi
 
 ### What We're Interested In
 
-* Chosen techniques/methods/deisgn used to make calls (For the HTTP/REST API client library, can use HTTParty)
+* Chosen techniques/methods/deisgn used to make calls (For the HTTP/REST API client library, can use HTTParty gem)
 * Integrity of functionality
 * Organization
 * Proper error handling
@@ -13,9 +13,10 @@ Thank you for taking the time to participate in this assessment! Below you'll fi
 * Creativity
 
 ### Side Notes
-  - You do not necessarily need any additional external tools other than your rest API gem and testing gem(s)
+  - You do not necessarily need any additional external tools other than your rest API gem and testing gems (Rspec..etc)
   - You can write everything you need to, using Ruby.
   - You are not subject to only what is asked. Add anything you need to make the solution more complete.
+  - Assess and plan our your steps, this may save you some time.
 
 ## Project Tasks ##
 ### Install application in local environment:
