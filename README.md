@@ -16,7 +16,7 @@ Thank you for taking the time to participate in this assessment! Below you'll fi
   - You do not necessarily need any additional external tools other than your rest API gem and testing gems (Rspec..etc)
   - You can write everything you need to, using Ruby.
   - You are not subject to only what is asked. Add anything you need to make the solution more complete.
-  - Assess and plan our your steps, this may save you some time.
+  - Assess and plan out your steps, this may save you some time.
 
 ## Project Tasks ##
 ### Install application in local environment:
