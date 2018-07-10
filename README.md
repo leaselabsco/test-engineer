@@ -68,6 +68,6 @@ The above tasks requests you to clone this repo as it contains a skeleton for yo
  - Your updated gamelibrary app
  - Your new mygames app
 
-Once received, we will simply run bundle install on both apps, run the gamelibrary app on port 3000 and run the mygames app on port 3001.  Upon verifying the functionality, we'll take a look at how you decided to build out the tasks.
+Once received, we will simply run bundle install on both apps, run the gamelibrary app on port 3000 and run the mygames app on port 3001.  Upon verifying the functionality, we'll take a look at how you decided to build out the tasks and make the 2 apps, in your perspective, complete.
 
 **MIT License - Open Source** We have created this test as an assessment for backend-end developers. If anyone else finds this useful, it's available for you to use anyway you like.
