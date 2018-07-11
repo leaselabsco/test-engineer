@@ -71,6 +71,26 @@ The above tasks requests you to clone this repo as it contains a skeleton for yo
  - Your updated gamelibrary app
  - Your new mygames app
 
-Once received, we will simply run bundle install on both apps, run the gamelibrary app on port 3000 and run the mygames app on port 3001.  Upon verifying the functionality, we'll take a look at how you decided to build out the tasks and make the 2 apps, in your perspective, complete.
+### This is how we'll run the apps:
+
+Terminal 1:
+
+  `git clone <your_base_app_repo>`
+  `cd test-engineer`
+  `bundle install`
+  `rails s -p 3000`
+
+Terminal 2:
+
+  `git clone <your_external_app_repo>`
+  `cd mygames`
+  `bundle install`
+  `rails s -p 3001`
+
+On a web browser go to:
+
+http://mygames.com:3001/
+
+Upon verifying the functionality, we'll take a look at how you decided to build out the tasks and make the 2 apps, in your perspective, complete, with the time given.
 
 **MIT License - Open Source** We have created this test as an assessment for backend-end developers. If anyone else finds this useful, it's available for you to use anyway you like.
