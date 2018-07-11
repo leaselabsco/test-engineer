@@ -68,7 +68,7 @@ Thank you for taking the time to participate in this assessment! Below you'll fi
 ### Completion and Delivery
 The above tasks requests you to clone this repo as it contains a skeleton for you to get started. All files and code to submit can exist within the 2 applications.  When complete, email a link to submissions@leaselabs.com. Please submit the following:
 
- - Your updated gamelibrary app
+ - Your updated test-engineer app (this is the gamelibrary base app)
  - Your new mygames app
 
 ### This is how we'll run the apps:
