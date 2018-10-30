@@ -1,5 +1,5 @@
 # LeaseLabs Engineering Assessment
-Thank you for taking the time to participate in this assessment! Below you'll find all of the information you should need to complete this assessment. If you have any questions feel free to reach out to us.
+Thank you for taking the time to participate in this assessment! Below you'll find all of the information you should need to complete this assessment. If you have any questions feel free to reach out to us.  Estimated Time to complete: 8hrs.
 
 ### What We're Interested In
 
@@ -15,7 +15,7 @@ Thank you for taking the time to participate in this assessment! Below you'll fi
 ### Side Notes - For the purposes of this assessment
   - You are not subject to only what is asked. Add anything you need to make the solution more complete.
   - You do not necessarily need any additional external tools other than your rest API gem and testing gems (Rspec..etc)
-  - No additional tables/migrations are needed.
+  - No additional tables/migrations are needed. Focus on feature-function completeness with given data.
   - You can write everything you need to, using Ruby.
   - There are no user logins needed for this assessment.
   - You do not have to focus on additional styling or additional javascript.
